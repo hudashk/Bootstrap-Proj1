@@ -1,2 +1,2 @@
-# Bootstrap-Proj1
+# SeedKaro-Website
 Website Using Html, Css, Bootstrap
