@@ -1,5 +1,5 @@
 .main-header{
-     border-bottom: 1px solid #ccc;
+     border-bottom: 5px solid #6bc449;
      padding: 5px 1px; 
      display: flex; 
      justify-content: space-between; 
@@ -32,11 +32,11 @@ a:hover{
 }
 h3{
     text-align: center;
-    color: rgb(35, 182, 35);
+    color:#6bc449;
     margin-top: 10px;
 }
 h1{
-    color: rgb(35, 182, 35);
+    color:#6bc449;
     margin-top: 40px;
 }
 h2{
@@ -45,6 +45,7 @@ h2{
 }
 .btn{
     margin-top: 15px;
+    background-color: #6bc449;
 }
 .icon{
     margin-left: 160px;
@@ -56,7 +57,7 @@ h2{
 }
 .card-text{
     text-align: center;
-    color: rgb(35, 182, 35);
+    color: #6bc449;
 }
 .huda{
     margin-top: 120px;
@@ -65,10 +66,10 @@ h2{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color:rgb(27, 218, 27);
-    color: white;
+    background-color:#5dc559;
+    color:white;
     margin-top: 60px;
-    margin-bottom: 40px;
+    margin-bottom: 30px;
 }
 .block{
     margin: 60px 100px 60px 0px;
@@ -81,8 +82,8 @@ h2{
     flex-direction: row;
     justify-content: space-between;
     background-color: black;
-    color:rgb(35, 182, 35);
-    margin-top: 40px;
+    color: #6bc449;
+    margin-top: 5px;
 }
 .text0{
     margin: 25px 0px 25px 25px;
@@ -93,8 +94,9 @@ h2{
 
 form{
     background-color:white;
-    margin: 50px 430px 10px 430px;
-    padding: 50px;
+    margin: 2px 430px 10px 430px;
+    padding: 10px 40px;
+    
 }
 .edit{
     padding: 0px 200px 5px 5px;
@@ -111,4 +113,15 @@ form{
     background-color:palegoldenrod;
     border-radius: 5px;
 }
+.backg-image{
+    background-image: url(Images/leave.png);
+    background-position: center;
+}
+.card-body{
+    margin-left: 20px;
+    margin-top: 20px;
     
+}
+.text-center{
+    margin-bottom: 40px;
+}
