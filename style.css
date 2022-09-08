@@ -28,7 +28,7 @@ a:hover{
     color:palevioletred;
 }
 .container{
-    margin-top: 50px;
+    margin-top: 20px;
 }
 h3{
     text-align: center;
@@ -91,12 +91,10 @@ h2{
 .text1{
     margin: 35px 0px 35px 40px;
 }
-
 form{
     background-color:white;
     margin: 2px 430px 10px 430px;
     padding: 10px 40px;
-    
 }
 .edit{
     padding: 0px 200px 5px 5px;
