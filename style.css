@@ -12,8 +12,7 @@
 } 
 .nav-identify ul,
 .nav-identify li { 
-    margin: 0;
-    padding: 0; 
+    color: #6bc449;
 }
 .nav-identify li { 
     display: inline-block;
@@ -21,7 +20,7 @@
     font-size: 18px;
 }
 a{
-    text-decoration: none;
+    list-style: none;
     color:black;
 }
 a:hover{
