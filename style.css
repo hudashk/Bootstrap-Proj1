@@ -103,5 +103,11 @@ form{
 .background{
     background-color: rgb(56, 233, 56);
     padding: 30px;
-    
+}
+.background2{
+    background-image: url(Images/leave.png);
+}
+form{
+    padding: 50px;
+    margin: 60px 400px;
 }
